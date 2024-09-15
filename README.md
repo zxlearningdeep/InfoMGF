@@ -4,7 +4,7 @@ This repository contains the source code and datasets for the paper "Beyond Redu
 
 # Available Data
 
-All the datasets can be downloaded from [datasets link](https://drive.google.com/file/d/18Nma11U2X4tvc_jvLYl1I3BpFbhRSR0A/view?usp=sharing).
+All the datasets can be downloaded from [datasets link](https://drive.google.com/file/d/1WU8j5YbwNr-cD-UQEfqX8nRDW0maDbWR/view?usp=sharing).
 
 Place the 'data' folder from the downloaded files into the 'InfoMGF' directory.
 
