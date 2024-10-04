@@ -20,10 +20,10 @@ Here, "acm" can be replaced by "dblp", "yelp","mag".
 
 ```
 @inproceedings{shen2024beyond,
-title={Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning},
-author={Shen, Zhixiang and Wang, Shuo and Kang, Zhao},
-booktitle={Advances in neural information processing systems},
-year={2024}
+  title={Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning},
+  author={Shen, Zhixiang and Wang, Shuo and Kang, Zhao},
+  booktitle={Advances in neural information processing systems},
+  year={2024}
 }
 
 ```
