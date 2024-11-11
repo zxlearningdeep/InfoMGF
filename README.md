@@ -4,6 +4,10 @@ This repository contains the source code and datasets for the NeurIPS'24 paper "
 
 Paper Link: https://arxiv.org/abs/2409.17386
 
+The overall framework:
+
+![InfoMGF Fig](https://github.com/zxlearningdeep/InfoMGF/blob/main/framework.png)
+
 # Available Data
 
 All the datasets can be downloaded from [datasets link](https://drive.google.com/file/d/1WU8j5YbwNr-cD-UQEfqX8nRDW0maDbWR/view?usp=sharing).
