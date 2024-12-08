@@ -2,7 +2,7 @@
 
 This repository contains the source code and datasets for the NeurIPS'24 paper "Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning".
 
-Paper Link: https://arxiv.org/abs/2409.17386
+Paper Link: https://openreview.net/pdf?id=xaqPAkJnAS
 
 The overall framework:
 
