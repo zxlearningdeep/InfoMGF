@@ -12,7 +12,12 @@ The overall framework:
 
 All the datasets can be downloaded from [datasets link](https://drive.google.com/file/d/1WU8j5YbwNr-cD-UQEfqX8nRDW0maDbWR/view?usp=sharing).
 
-Place the 'data' folder from the downloaded files into the 'InfoMGF' directory.
+**Place the 'data' folder from the downloaded files into the 'InfoMGF' directory.**
+
+The adjacency matrices of the multiplex graph are extracted from publicly available heterogeneous graph datasets using different meta-paths. By utilizing meta-paths, we can transform the heterogeneous graph into homogeneous graphs with multiplex structures. You can take a look at our code "data_process.py" for the detailed dataset preprocessing process. If you want to learn more about heterogeneous graphs and meta-paths, we recommend the following papers:
+
+1. Wang, Xiao, et al. “Heterogeneous graph attention network.” The World Wide Web Conference. 2019.
+2. Shen, Zhixiang, and Zhao Kang. “When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning.” [arXiv preprint arXiv:2409.00687 (2024)](https://arxiv.org/abs/2409.00687).
 
 # Requirements
 
