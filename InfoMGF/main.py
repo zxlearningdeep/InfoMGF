@@ -41,8 +41,8 @@ class Experiment:
         test_accu = accuracy(logp[mask], labels[mask])
 
         preds = torch.argmax(logp, dim=1)
-        test_f1_macro = f1_score(labels[mask].cpu(), preds[mask].cpu(), average='macro')
-        test_f1_micro = f1_score(labels[mask].cpu(), preds[mask].cpu(), average='micro')
+        test_f1_macro = torch.tensor(f1_score(labels[mask].cpu(), preds[mask].cpu(), average='macro'))
+        test_f1_micro = torch.tensor(f1_score(labels[mask].cpu(), preds[mask].cpu(), average='micro'))
 
         return loss, test_accu, test_f1_macro, test_f1_micro
 
