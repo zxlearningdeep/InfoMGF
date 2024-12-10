@@ -4,7 +4,7 @@ This repository contains the source code and datasets for the NeurIPS'24 paper "
 
 Paper Link: [https://openreview.net/pdf?id=xaqPAkJnAS](https://openreview.net/pdf?id=xaqPAkJnAS)
 
-NeurIPS Project Link (include poster and slides): [https://neurips.cc/virtual/2024/poster/93075](https://neurips.cc/virtual/2024/poster/93075)
+NeurIPS Project Link (including poster and slides): [https://neurips.cc/virtual/2024/poster/93075](https://neurips.cc/virtual/2024/poster/93075)
 
 The overall framework:
 
