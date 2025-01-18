@@ -27,7 +27,7 @@ This code requires the following:
 
 * Python==3.9.16
 * PyTorch==1.13.1
-* DGL==0.9.1
+* DGL(cuda)==0.9.1
 * Numpy==1.24.2
 * Scipy==1.10.1
 * Scikit-learn==1.2.1
