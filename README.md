@@ -44,11 +44,14 @@ Here, "acm" can be replaced by "dblp", "yelp","mag".
 # BibTeX
 
 ```
+
 @inproceedings{shen2024beyond,
-  title={Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning},
-  author={Shen, Zhixiang and Wang, Shuo and Kang, Zhao},
-  booktitle={Advances in neural information processing systems},
-  year={2024}
+ author = {Shen, Zhixiang and Wang, Shuo and Kang, Zhao},
+ booktitle = {Advances in Neural Information Processing Systems},
+ pages = {31629--31658},
+ title = {Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning},
+ volume = {37},
+ year = {2024}
 }
 
 ```
